@@ -1,0 +1,4 @@
+CREATE USER [laarni.ponciano@lingarogroup.com]
+    WITH SID = 0x05C862492F0F334AB506E3F28C06E77B, TYPE = E;
+GO
+

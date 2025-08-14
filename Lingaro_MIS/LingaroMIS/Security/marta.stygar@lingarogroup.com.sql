@@ -1,0 +1,4 @@
+CREATE USER [marta.stygar@lingarogroup.com]
+    WITH SID = 0xE721040FA918FB449D56514ACFF2B295, TYPE = E;
+GO
+

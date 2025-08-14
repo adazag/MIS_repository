@@ -1,0 +1,4 @@
+CREATE USER [bartosz.solnik@lingarogroup.com]
+    WITH SID = 0xEE76A514642C2F4D84F4A7792379052C, TYPE = E;
+GO
+

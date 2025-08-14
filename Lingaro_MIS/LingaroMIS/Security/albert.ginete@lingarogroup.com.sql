@@ -1,0 +1,4 @@
+CREATE USER [albert.ginete@lingarogroup.com]
+    WITH SID = 0x55C98BD76FD60D41B6E1C10656E16FEE, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [jofel.ingalla@lingarogroup.com]
+    WITH SID = 0x587A3C3991313644B392AC451F693A7B, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [pawel.karauda@lingarogroup.com]
+    WITH SID = 0x3B024CD783EA5E4C988207ED93E0AFE1, TYPE = E;
+GO
+

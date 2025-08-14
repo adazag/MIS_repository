@@ -1,0 +1,4 @@
+CREATE USER [magdalena.zimoch@lingarogroup.com]
+    WITH SID = 0x905C970FC570D4409AD6EAA0A44E8B8B, TYPE = E;
+GO
+

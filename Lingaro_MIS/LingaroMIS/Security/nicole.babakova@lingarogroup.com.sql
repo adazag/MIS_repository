@@ -1,0 +1,4 @@
+CREATE USER [nicole.babakova@lingarogroup.com]
+    WITH SID = 0x03DF0B962115BA48AA607446224D59DD, TYPE = E;
+GO
+

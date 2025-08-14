@@ -1,0 +1,4 @@
+CREATE USER [agata.adamczyk@lingarogroup.com]
+    WITH SID = 0xBE36C3B93DAA7546B13AB70A8BB9ABAB, TYPE = E;
+GO
+

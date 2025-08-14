@@ -1,0 +1,4 @@
+CREATE USER [eden.encinares@lingarogroup.com]
+    WITH SID = 0x299B6CFF04473743B191BCF8EADF5B52, TYPE = E;
+GO
+

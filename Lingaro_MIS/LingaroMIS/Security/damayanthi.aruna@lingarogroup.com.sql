@@ -1,0 +1,4 @@
+CREATE USER [damayanthi.aruna@lingarogroup.com]
+    WITH SID = 0x3A61E58B1F96884FBFFA063CAD57A02B, TYPE = E;
+GO
+

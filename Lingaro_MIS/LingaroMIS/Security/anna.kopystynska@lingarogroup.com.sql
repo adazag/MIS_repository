@@ -1,0 +1,4 @@
+CREATE USER [anna.kopystynska@lingarogroup.com]
+    WITH SID = 0xB24E219BA404204EA556B80E1BAE4701, TYPE = E;
+GO
+

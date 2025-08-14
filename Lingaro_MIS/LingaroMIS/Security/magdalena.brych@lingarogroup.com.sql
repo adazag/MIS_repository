@@ -1,0 +1,4 @@
+CREATE USER [magdalena.brych@lingarogroup.com]
+    WITH SID = 0x89C4F83858D0A94EAD21CE4CB17723DC, TYPE = E;
+GO
+

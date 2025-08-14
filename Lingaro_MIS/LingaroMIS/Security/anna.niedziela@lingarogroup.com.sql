@@ -1,0 +1,4 @@
+CREATE USER [anna.niedziela@lingarogroup.com]
+    WITH SID = 0xB10EC106BDD8E840B0BBD0F4C3C672F6, TYPE = E;
+GO
+

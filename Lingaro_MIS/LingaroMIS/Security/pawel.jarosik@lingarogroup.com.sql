@@ -1,0 +1,4 @@
+CREATE USER [pawel.jarosik@lingarogroup.com]
+    WITH SID = 0xD90E48779A1F0045B0C9A91AF3C44209, TYPE = E;
+GO
+

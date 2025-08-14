@@ -1,0 +1,4 @@
+CREATE USER [andrzej.kozak@lingarogroup.com]
+    WITH SID = 0x21F8CEA39860F640A9939364935BEBD7, TYPE = E;
+GO
+

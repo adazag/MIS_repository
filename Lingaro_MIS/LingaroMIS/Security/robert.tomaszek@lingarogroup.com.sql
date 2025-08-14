@@ -1,0 +1,4 @@
+CREATE USER [robert.tomaszek@lingarogroup.com]
+    WITH SID = 0x7CF9980E57284846BA7949A5C8E892B8, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [girlie.saguano@lingarogroup.com]
+    WITH SID = 0x1B1D45948D97814191B298A27D7A9A5A, TYPE = E;
+GO
+

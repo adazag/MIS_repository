@@ -1,0 +1,4 @@
+CREATE USER [daria.sapytska@lingarogroup.com]
+    WITH SID = 0x0F0C8F6E22045B4A984354EC34B144D1, TYPE = E;
+GO
+

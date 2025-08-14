@@ -1,0 +1,4 @@
+CREATE USER [anna.mencel@lingarogroup.com]
+    WITH SID = 0x6AA62F1F508F734EA0F7ECFFAF901D7A, TYPE = E;
+GO
+

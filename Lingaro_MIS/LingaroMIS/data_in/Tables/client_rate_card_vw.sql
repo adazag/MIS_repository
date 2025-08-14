@@ -1,0 +1,30 @@
+CREATE TABLE [data_in].[client_rate_card_vw] (
+    [id]                    BIGINT          NULL,
+    [role_name]             NVARCHAR (200)  NULL,
+    [client_id]             BIGINT          NULL,
+    [client_name]           NVARCHAR (300)  NULL,
+    [rate]                  DECIMAL (12, 2) NULL,
+    [rate_start_date]       DATE            NULL,
+    [rate_end_date]         DATE            NULL,
+    [currency_code]         NVARCHAR (3)    NULL,
+    [modified_at]           DATETIME2 (7)   NULL,
+    [modified_by]           BIGINT          NULL,
+    [creation_at]           DATETIME2 (7)   NULL,
+    [created_by]            BIGINT          NULL,
+    [modifiedy_by_employee] NVARCHAR (201)  NULL,
+    [created_by_employee]   NVARCHAR (201)  NULL,
+    [client_rate_card_id]   BIGINT          NULL,
+    [client_rate_card_name] NVARCHAR (200)  NULL,
+    [current_rate_ind]      BIT             NULL,
+    [country_id]            BIGINT          NULL,
+    [country]               NVARCHAR (200)  NULL,
+    [seniority]             NVARCHAR (100)  NULL,
+    [external_role_id]      NVARCHAR (100)  NULL,
+    [internal_role_id]      NVARCHAR (100)  NULL,
+    [competency]            NVARCHAR (1000) NULL,
+    [family]                NVARCHAR (1000) NULL,
+    [years_of_experience]   NVARCHAR (100)  NULL,
+    [role_full_name]        NVARCHAR (2454) NULL
+);
+GO
+

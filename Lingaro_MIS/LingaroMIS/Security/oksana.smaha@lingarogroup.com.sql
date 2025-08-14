@@ -1,0 +1,4 @@
+CREATE USER [oksana.smaha@lingarogroup.com]
+    WITH SID = 0xE76018A2ACFA3D4C86A104E961DA496C, TYPE = E;
+GO
+

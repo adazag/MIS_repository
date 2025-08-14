@@ -1,0 +1,4 @@
+CREATE USER [bryan.radam@lingarogroup.com]
+    WITH SID = 0xBEAA5E32F3A1A8428DD588DA1AC9A0D3, TYPE = E;
+GO
+

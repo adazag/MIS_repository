@@ -1,0 +1,4 @@
+CREATE USER [rafal.sieczka@lingarogroup.com]
+    WITH SID = 0x844626B397555845B3C47A0DAF544654, TYPE = E;
+GO
+

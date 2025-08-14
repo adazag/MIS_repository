@@ -1,0 +1,4 @@
+CREATE USER [ewelina.lewocka@lingarogroup.com]
+    WITH SID = 0xBD5B762E16A25D4AAF6251DAA595D9B2, TYPE = E;
+GO
+

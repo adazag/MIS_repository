@@ -1,0 +1,4 @@
+CREATE USER [ronald.dungo@lingarogroup.com]
+    WITH SID = 0xAD65960227343A4480B5DA16AF7D3B9A, TYPE = E;
+GO
+

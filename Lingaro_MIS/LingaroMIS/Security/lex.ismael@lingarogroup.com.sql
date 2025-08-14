@@ -1,0 +1,4 @@
+CREATE USER [lex.ismael@lingarogroup.com]
+    WITH SID = 0x7D35F0EC0EE90244A5E5F725465C0768, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [magion.bracil@lingarogroup.com]
+    WITH SID = 0x3A0648E9E30CFB488AB6380936695C85, TYPE = E;
+GO
+

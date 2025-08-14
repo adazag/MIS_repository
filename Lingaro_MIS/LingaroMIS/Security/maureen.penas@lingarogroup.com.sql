@@ -1,0 +1,4 @@
+CREATE USER [maureen.penas@lingarogroup.com]
+    WITH SID = 0x77B04D44968448458E77E7885DC25F2B, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [nikodem.stejn@lingarogroup.com]
+    WITH SID = 0xA34D821691B2F64CB6AD8EC4F6363C54, TYPE = E;
+GO
+

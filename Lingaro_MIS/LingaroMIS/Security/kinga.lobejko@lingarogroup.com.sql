@@ -1,0 +1,4 @@
+CREATE USER [kinga.lobejko@lingarogroup.com]
+    WITH SID = 0xD1B2C2CF100BEF4FAA7218FAC9C2FBAA, TYPE = E;
+GO
+

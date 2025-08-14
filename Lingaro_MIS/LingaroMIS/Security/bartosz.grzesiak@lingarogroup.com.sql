@@ -1,0 +1,4 @@
+CREATE USER [bartosz.grzesiak@lingarogroup.com]
+    WITH SID = 0x6B9120E2DFA85440B3E58F156CF31242, TYPE = E;
+GO
+

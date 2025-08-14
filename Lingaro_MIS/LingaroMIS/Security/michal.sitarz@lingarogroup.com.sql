@@ -1,0 +1,4 @@
+CREATE USER [michal.sitarz@lingarogroup.com]
+    WITH SID = 0x117F148ADD872F47B545B5B8B4A93D8D, TYPE = E;
+GO
+

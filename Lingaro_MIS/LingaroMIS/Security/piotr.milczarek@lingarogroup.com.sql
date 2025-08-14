@@ -1,0 +1,4 @@
+CREATE USER [piotr.milczarek@lingarogroup.com]
+    WITH SID = 0xECAB948960A72C4A97926A38E9EBE562, TYPE = E;
+GO
+

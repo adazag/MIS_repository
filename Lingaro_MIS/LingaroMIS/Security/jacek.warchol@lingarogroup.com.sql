@@ -1,0 +1,4 @@
+CREATE USER [jacek.warchol@lingarogroup.com]
+    WITH SID = 0x3872E205B4184342A33CEC616187A79C, TYPE = E;
+GO
+

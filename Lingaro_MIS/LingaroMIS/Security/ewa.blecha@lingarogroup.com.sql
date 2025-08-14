@@ -1,0 +1,4 @@
+CREATE USER [ewa.blecha@lingarogroup.com]
+    WITH SID = 0x8399B5BA50F2974C84F0F7395CF2E1E1, TYPE = E;
+GO
+

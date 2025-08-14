@@ -1,0 +1,4 @@
+CREATE USER [karol.kalinowski@lingarogroup.com]
+    WITH SID = 0x89BCCE2DC5C28E459ECAB809F2D8696D, TYPE = E;
+GO
+

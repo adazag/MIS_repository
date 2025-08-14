@@ -1,0 +1,4 @@
+CREATE USER [iwona.sulek@lingarogroup.com]
+    WITH SID = 0x56DC07786E56CD42AAE1A5067EF9F914, TYPE = E;
+GO
+

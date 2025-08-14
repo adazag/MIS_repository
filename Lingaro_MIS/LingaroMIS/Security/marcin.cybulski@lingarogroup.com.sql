@@ -1,0 +1,4 @@
+CREATE USER [marcin.cybulski@lingarogroup.com]
+    WITH SID = 0x98F70258FF876B42875C0CF8B76148C9, TYPE = E;
+GO
+

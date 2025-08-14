@@ -1,0 +1,4 @@
+CREATE USER [aldrin.delacruz@lingarogroup.com]
+    WITH SID = 0xF35B1E0DFC2CC44E9696A15951D03043, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [iwona.pyzowska@lingarogroup.com]
+    WITH SID = 0x62B325E0BDA63D4588CE59A138E6E2E9, TYPE = E;
+GO
+

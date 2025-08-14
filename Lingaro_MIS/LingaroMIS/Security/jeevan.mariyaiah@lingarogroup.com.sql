@@ -1,0 +1,4 @@
+CREATE USER [jeevan.mariyaiah@lingarogroup.com]
+    WITH SID = 0xB795FC7337A7E849B0508ACC08145146, TYPE = E;
+GO
+

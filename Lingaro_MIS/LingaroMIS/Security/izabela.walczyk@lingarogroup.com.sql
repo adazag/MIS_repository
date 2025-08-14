@@ -1,0 +1,4 @@
+CREATE USER [izabela.walczyk@lingarogroup.com]
+    WITH SID = 0xF69228C622D6F54F822EC2D8C76F0769, TYPE = E;
+GO
+

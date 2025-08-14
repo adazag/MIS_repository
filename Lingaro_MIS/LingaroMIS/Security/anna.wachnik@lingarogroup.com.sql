@@ -1,0 +1,4 @@
+CREATE USER [anna.wachnik@lingarogroup.com]
+    WITH SID = 0x162E6172068491448CE7C49EE44766BA, TYPE = E;
+GO
+

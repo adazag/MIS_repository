@@ -1,0 +1,4 @@
+CREATE USER [rebeca.acevedo@lingarogroup.com]
+    WITH SID = 0xA3C230F0E533D649A85BB204385B547D, TYPE = E;
+GO
+

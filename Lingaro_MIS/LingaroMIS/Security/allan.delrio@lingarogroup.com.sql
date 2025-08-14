@@ -1,0 +1,4 @@
+CREATE USER [allan.delrio@lingarogroup.com]
+    WITH SID = 0x33096BC803900744B21D6EF8D4B97F21, TYPE = E;
+GO
+

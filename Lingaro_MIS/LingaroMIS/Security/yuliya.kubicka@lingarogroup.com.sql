@@ -1,0 +1,4 @@
+CREATE USER [yuliya.kubicka@lingarogroup.com]
+    WITH SID = 0x104884EBF1FC5E4A913B82B2A785B3D7, TYPE = E;
+GO
+

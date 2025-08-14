@@ -1,0 +1,4 @@
+CREATE USER [anna.sakowska@lingarogroup.com]
+    WITH SID = 0xC91914000230784FBFAD2293AA578316, TYPE = E;
+GO
+

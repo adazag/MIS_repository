@@ -1,0 +1,4 @@
+CREATE USER [Michal.Dorocinski@lingarogroup.com]
+    WITH SID = 0x080084FCCB08784B961582A28967E260, TYPE = E;
+GO
+

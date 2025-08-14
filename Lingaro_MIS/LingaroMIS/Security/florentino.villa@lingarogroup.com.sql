@@ -1,0 +1,4 @@
+CREATE USER [florentino.villa@lingarogroup.com]
+    WITH SID = 0xCE072A20D78D294EA545D1ADD8F1A14A, TYPE = E;
+GO
+

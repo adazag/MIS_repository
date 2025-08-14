@@ -1,0 +1,4 @@
+CREATE USER [natalia.skiba@lingarogroup.com]
+    WITH SID = 0xE5461ED15B179A4EAF76B11E09D46111, TYPE = E;
+GO
+

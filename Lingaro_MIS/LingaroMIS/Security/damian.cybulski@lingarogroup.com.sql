@@ -1,0 +1,4 @@
+CREATE USER [damian.cybulski@lingarogroup.com]
+    WITH SID = 0x51E8D40E220B1B409F3080CF695ADDCC, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [pawel.gorski@lingarogroup.com]
+    WITH SID = 0xF0CFACA8DCDCA14D9D3AA77C882A056D, TYPE = E;
+GO
+

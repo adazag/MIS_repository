@@ -1,0 +1,4 @@
+CREATE USER [ewelina.gawrych@lingarogroup.com]
+    WITH SID = 0x2FC90FFC18AAC74A81E6597D2B6FA251, TYPE = E;
+GO
+

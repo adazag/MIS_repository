@@ -1,0 +1,4 @@
+CREATE USER [prasanjita.bose@lingarogroup.com]
+    WITH SID = 0xEF0E56921500BD41A062DC8ED12E51CE, TYPE = E;
+GO
+

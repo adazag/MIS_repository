@@ -1,0 +1,4 @@
+CREATE USER [lukasz.zuber@lingarogroup.com]
+    WITH SID = 0x29DA4B1491AB8F499C5412AFFAB88104, TYPE = E;
+GO
+

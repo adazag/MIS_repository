@@ -1,0 +1,4 @@
+CREATE USER [agnieszka.wojcik@lingarogroup.com]
+    WITH SID = 0x89CD2BD0884D3147AAAE8102AC44254A, TYPE = E;
+GO
+

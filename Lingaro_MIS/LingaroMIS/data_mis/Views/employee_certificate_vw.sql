@@ -1,0 +1,16 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+create view data_mis.employee_certificate_vw as 
+SELECT [id]
+      ,[employee_id]
+      ,[certificate_id]
+      ,[expiry_date]
+      ,[creation_at]
+      ,[modified_at]
+      ,[created_by]
+      ,[modified_by]
+      ,[start_date]
+      ,[end_date]
+      ,[url]
+  FROM [data_in].[employee_certificate]
+GO
+

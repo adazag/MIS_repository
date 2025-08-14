@@ -1,0 +1,4 @@
+CREATE USER [sebastian.stygar@lingarogroup.com]
+    WITH SID = 0x3D4388712C8A284185876C64D054E097, TYPE = E;
+GO
+

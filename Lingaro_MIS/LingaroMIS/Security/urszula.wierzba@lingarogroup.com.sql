@@ -1,0 +1,4 @@
+CREATE USER [urszula.wierzba@lingarogroup.com]
+    WITH SID = 0xCCDADB8C45CBD1499FB4F48CE75B343E, TYPE = E;
+GO
+

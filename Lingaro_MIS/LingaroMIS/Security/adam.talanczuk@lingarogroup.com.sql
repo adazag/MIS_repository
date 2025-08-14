@@ -1,0 +1,4 @@
+CREATE USER [adam.talanczuk@lingarogroup.com]
+    WITH SID = 0xD1F404E17442104D998609E8D302D5A6, TYPE = E;
+GO
+

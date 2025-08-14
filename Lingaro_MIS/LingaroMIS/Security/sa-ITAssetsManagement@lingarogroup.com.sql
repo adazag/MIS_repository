@@ -1,0 +1,4 @@
+CREATE USER [sa-ITAssetsManagement@lingarogroup.com]
+    WITH SID = 0x7A3793E033699D42BAAF79E299E6EE4E, TYPE = E;
+GO
+

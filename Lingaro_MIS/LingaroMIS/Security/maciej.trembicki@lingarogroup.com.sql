@@ -1,0 +1,4 @@
+CREATE USER [maciej.trembicki@lingarogroup.com]
+    WITH SID = 0x1D67CF429EA38B448427C2047D102457, TYPE = E;
+GO
+

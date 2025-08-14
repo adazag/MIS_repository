@@ -1,0 +1,4 @@
+CREATE USER [paulina.prystupa@lingarogroup.com]
+    WITH SID = 0xCC0FCF3CC4F7324FB3A95CAECB4EA91A, TYPE = E;
+GO
+

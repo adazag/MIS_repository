@@ -1,0 +1,4 @@
+CREATE USER [wojciech.pliszka@lingarogroup.com]
+    WITH SID = 0x8FDCC9331374D746866FE995305A285E, TYPE = E;
+GO
+

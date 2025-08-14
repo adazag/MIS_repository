@@ -1,0 +1,4 @@
+CREATE USER [piotr.szyszka@lingarogroup.com]
+    WITH SID = 0xC3CCE293A5089D4081BD6BBC81A614D1, TYPE = E;
+GO
+

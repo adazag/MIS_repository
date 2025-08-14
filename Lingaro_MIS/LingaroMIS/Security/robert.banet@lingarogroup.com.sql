@@ -1,0 +1,4 @@
+CREATE USER [robert.banet@lingarogroup.com]
+    WITH SID = 0x1C9B4E79446A954591F52EAD59898B22, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [ljay.salas@lingarogroup.com]
+    WITH SID = 0x9DBEA7F2B10592479FB1D3EAA8496132, TYPE = E;
+GO
+

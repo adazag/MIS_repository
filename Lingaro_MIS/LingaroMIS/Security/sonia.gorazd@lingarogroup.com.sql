@@ -1,0 +1,4 @@
+CREATE USER [sonia.gorazd@lingarogroup.com]
+    WITH SID = 0x74792F4BC2650A45988D6428B4CE0761, TYPE = E;
+GO
+

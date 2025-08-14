@@ -1,0 +1,22 @@
+create view data_mis.proj_question as
+  SELECT [id]
+      ,[text]
+      ,[allow_custom_answer]
+      ,[dictionary_id]
+      ,[expected_answer_type]
+      ,[creation_at]
+      ,[modified_at]
+      ,[created_by]
+      ,[modified_by]
+      ,[form_type_id]
+      ,[active_ind]
+      ,[description]
+      ,[category_id]
+      ,[allow_multiple_answers]
+      ,[parent_question_id]
+      ,[display_order]
+      ,[before_question_id]
+      ,[read_only]
+  FROM [data_in].[proj_question]
+GO
+

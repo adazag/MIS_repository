@@ -1,0 +1,4 @@
+CREATE USER [agnieszka.luczak@lingarogroup.com]
+    WITH SID = 0xCB4300132276A244B8E367533DB2F14F, TYPE = E;
+GO
+

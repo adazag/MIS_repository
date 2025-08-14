@@ -1,0 +1,4 @@
+CREATE USER [bartek.jarosz@lingarogroup.com]
+    WITH SID = 0xD2C92C20D691964CAD676CF3FF35813F, TYPE = E;
+GO
+

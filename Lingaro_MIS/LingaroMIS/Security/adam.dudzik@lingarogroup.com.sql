@@ -1,0 +1,4 @@
+CREATE USER [adam.dudzik@lingarogroup.com]
+    WITH SID = 0x2BC4D7D71ADD3544ACEACEE611F32280, TYPE = E;
+GO
+

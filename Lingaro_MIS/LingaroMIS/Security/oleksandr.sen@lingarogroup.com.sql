@@ -1,0 +1,4 @@
+CREATE USER [oleksandr.sen@lingarogroup.com]
+    WITH SID = 0x62E3794553503E49A3049499217E3A14, TYPE = E;
+GO
+

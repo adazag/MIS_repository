@@ -1,0 +1,4 @@
+CREATE USER [izabela.sugalska@lingarogroup.com]
+    WITH SID = 0x092D937D780B7145B48BDC118CF84962, TYPE = E;
+GO
+

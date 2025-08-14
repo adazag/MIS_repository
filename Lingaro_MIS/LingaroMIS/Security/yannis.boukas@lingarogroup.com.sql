@@ -1,0 +1,4 @@
+CREATE USER [yannis.boukas@lingarogroup.com]
+    WITH SID = 0x1E4AA9B1076FB14A95CC54F15D248115, TYPE = E;
+GO
+

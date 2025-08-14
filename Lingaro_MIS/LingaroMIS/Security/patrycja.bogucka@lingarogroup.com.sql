@@ -1,0 +1,4 @@
+CREATE USER [patrycja.bogucka@lingarogroup.com]
+    WITH SID = 0xF4D8A6A8BF91E04E952241105235408A, TYPE = E;
+GO
+

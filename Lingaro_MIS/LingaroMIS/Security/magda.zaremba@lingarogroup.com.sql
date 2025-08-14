@@ -1,0 +1,4 @@
+CREATE USER [magda.zaremba@lingarogroup.com]
+    WITH SID = 0xCB3ED8F0717DDE45BA54E84CEEE71803, TYPE = E;
+GO
+

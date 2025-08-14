@@ -1,0 +1,4 @@
+CREATE USER [jamie.rayos@lingarogroup.com]
+    WITH SID = 0xF1569ECFD1E14F4E94C3A3873A350851, TYPE = E;
+GO
+

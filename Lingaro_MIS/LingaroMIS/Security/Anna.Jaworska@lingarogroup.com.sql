@@ -1,0 +1,4 @@
+CREATE USER [Anna.Jaworska@lingarogroup.com]
+    WITH SID = 0xA193BD39A4E155479FC314C94559D9CA, TYPE = E;
+GO
+

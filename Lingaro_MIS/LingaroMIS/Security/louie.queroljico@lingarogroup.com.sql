@@ -1,0 +1,4 @@
+CREATE USER [louie.queroljico@lingarogroup.com]
+    WITH SID = 0x544CAE5FC4329C429172B0AB1B9F8E3C, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [dawid.stylinski@lingarogroup.com]
+    WITH SID = 0xE3610748F0848E40B69E117C3A1440F7, TYPE = E;
+GO
+

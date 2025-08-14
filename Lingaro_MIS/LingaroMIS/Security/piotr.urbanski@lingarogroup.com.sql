@@ -1,0 +1,4 @@
+CREATE USER [piotr.urbanski@lingarogroup.com]
+    WITH SID = 0x7BF7C6D8111EB34DA36331158D4E1FC9, TYPE = E;
+GO
+

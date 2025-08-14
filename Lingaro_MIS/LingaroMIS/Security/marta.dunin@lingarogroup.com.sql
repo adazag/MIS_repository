@@ -1,0 +1,4 @@
+CREATE USER [marta.dunin@lingarogroup.com]
+    WITH SID = 0xF9958296F0482644BA22842B0C5127C9, TYPE = E;
+GO
+

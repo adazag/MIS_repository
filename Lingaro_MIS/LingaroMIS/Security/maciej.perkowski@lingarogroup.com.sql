@@ -1,0 +1,4 @@
+CREATE USER [maciej.perkowski@lingarogroup.com]
+    WITH SID = 0x154683596EBA144BBF08806169060D52, TYPE = E;
+GO
+

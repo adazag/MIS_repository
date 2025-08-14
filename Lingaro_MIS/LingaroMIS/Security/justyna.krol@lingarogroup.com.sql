@@ -1,0 +1,4 @@
+CREATE USER [justyna.krol@lingarogroup.com]
+    WITH SID = 0x2B6932E28F1F8B4D9899FA246B666988, TYPE = E;
+GO
+

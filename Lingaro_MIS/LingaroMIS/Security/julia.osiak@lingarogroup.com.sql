@@ -1,0 +1,4 @@
+CREATE USER [julia.osiak@lingarogroup.com]
+    WITH SID = 0xB69BC937A8683E469A33B897B61693F5, TYPE = E;
+GO
+

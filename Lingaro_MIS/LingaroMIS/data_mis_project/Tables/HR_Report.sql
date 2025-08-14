@@ -1,0 +1,32 @@
+CREATE TABLE [data_mis_project].[HR_Report] (
+    [DayDate]                    DATE            NULL,
+    [TypeOfDay]                  VARCHAR (15)    NOT NULL,
+    [employee_id]                BIGINT          NULL,
+    [role_id]                    BIGINT          NULL,
+    [position_id]                BIGINT          NULL,
+    [contract_type_name]         NVARCHAR (100)  NULL,
+    [organization_unit_id]       BIGINT          NULL,
+    [contract_start_date]        DATE            NULL,
+    [contract_end_date]          DATE            NULL,
+    [fte]                        DECIMAL (6, 3)  NULL,
+    [project_id]                 BIGINT          NULL,
+    [IsTimeOff]                  INT             NOT NULL,
+    [long_term_leave_start_date] DATE            NULL,
+    [long_term_leave_end_date]   DATE            NULL,
+    [leaver_last_day_of_work]    DATE            NULL,
+    [IsHeadcount_LastDayOfMonth] INT             NOT NULL,
+    [active_ind]                 BIT             NULL,
+    [leave_ind]                  BIT             NULL,
+    [IsLeaver]                   VARCHAR (1)     NOT NULL,
+    [leaver_ind_modified_at]     DATE            NULL,
+    [OnNotice]                   VARCHAR (1)     NOT NULL,
+    [OnLongtermLeave]            VARCHAR (1)     NOT NULL,
+    [joiners_current_month]      INT             NOT NULL,
+    [IsNewJoinersInThisMonth]    INT             NOT NULL,
+    [month_cnt]                  INT             NULL,
+    [capacity_without_holiday]   NUMERIC (6, 4)  NULL,
+    [fte_for_current_day]        DECIMAL (10, 7) NULL,
+    [capacity]                   NUMERIC (6, 4)  NOT NULL
+);
+GO
+

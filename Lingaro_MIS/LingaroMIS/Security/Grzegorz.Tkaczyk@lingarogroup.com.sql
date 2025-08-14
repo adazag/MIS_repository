@@ -1,0 +1,4 @@
+CREATE USER [Grzegorz.Tkaczyk@lingarogroup.com]
+    WITH SID = 0x8FCA66672A67D540B6BF03B2AEB0E894, TYPE = E;
+GO
+

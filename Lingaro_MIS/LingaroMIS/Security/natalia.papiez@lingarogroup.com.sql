@@ -1,0 +1,4 @@
+CREATE USER [natalia.papiez@lingarogroup.com]
+    WITH SID = 0xA016B60298D9CA469E1AD5167071D846, TYPE = E;
+GO
+

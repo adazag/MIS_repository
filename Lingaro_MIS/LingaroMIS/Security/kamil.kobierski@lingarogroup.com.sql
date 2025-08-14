@@ -1,0 +1,4 @@
+CREATE USER [kamil.kobierski@lingarogroup.com]
+    WITH SID = 0xE073BD90518D8D498F9CA8588A8FCF6D, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [agata.skoniecka@lingarogroup.com]
+    WITH SID = 0xE4299CA9F299694EB32F65FEA7A4B520, TYPE = E;
+GO
+

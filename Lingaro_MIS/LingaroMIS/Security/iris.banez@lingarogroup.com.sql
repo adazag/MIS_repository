@@ -1,0 +1,4 @@
+CREATE USER [iris.banez@lingarogroup.com]
+    WITH SID = 0xC9B13C1ABDB73B4EA0AE958A76E19D94, TYPE = E;
+GO
+

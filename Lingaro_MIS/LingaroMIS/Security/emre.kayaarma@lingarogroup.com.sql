@@ -1,0 +1,4 @@
+CREATE USER [emre.kayaarma@lingarogroup.com]
+    WITH SID = 0x0C3AD1AB3CF2B0498900302CDD0CA21C, TYPE = E;
+GO
+

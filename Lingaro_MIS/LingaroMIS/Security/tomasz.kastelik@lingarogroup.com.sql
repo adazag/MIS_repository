@@ -1,0 +1,4 @@
+CREATE USER [tomasz.kastelik@lingarogroup.com]
+    WITH SID = 0xF206780D5FB63F4FB9FCB674408ACB75, TYPE = E;
+GO
+

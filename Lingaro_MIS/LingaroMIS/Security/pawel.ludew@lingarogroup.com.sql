@@ -1,0 +1,4 @@
+CREATE USER [pawel.ludew@lingarogroup.com]
+    WITH SID = 0xD86FB301EEA045458EA14002634D8C35, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [iga.szczepanska@lingarogroup.com]
+    WITH SID = 0x8EADC50FAD481748903AE76558AB9403, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [Maciej.guzinski@lingarogroup.com]
+    WITH SID = 0x0D12583D911D3C41BF00A8A404F93842, TYPE = E;
+GO
+

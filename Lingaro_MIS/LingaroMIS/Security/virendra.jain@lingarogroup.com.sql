@@ -1,0 +1,4 @@
+CREATE USER [virendra.jain@lingarogroup.com]
+    WITH SID = 0x70427F8FED9D734D98E01F3A7B1B2055, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [wiktoria.rybak@lingarogroup.com]
+    WITH SID = 0x363914AF8294F847AACB2E0974F75ACE, TYPE = E;
+GO
+

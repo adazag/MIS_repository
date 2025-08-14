@@ -1,0 +1,4 @@
+CREATE USER [pawel.adler@lingarogroup.com]
+    WITH SID = 0xB2616A617806E44CA96955CEA49DD519, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [karol.zaniewicz@lingarogroup.com]
+    WITH SID = 0xA3708BD0E5E933469EA280F202618D64, TYPE = E;
+GO
+

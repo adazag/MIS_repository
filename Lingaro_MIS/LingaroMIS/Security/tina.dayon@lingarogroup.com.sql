@@ -1,0 +1,4 @@
+CREATE USER [tina.dayon@lingarogroup.com]
+    WITH SID = 0xA283DBB7F7E2BA4AA2C02B4CCF1F1482, TYPE = E;
+GO
+

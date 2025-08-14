@@ -1,0 +1,4 @@
+CREATE USER [adam.wojciuk@lingarogroup.com]
+    WITH SID = 0xB51A905E4967D24283650F3E7ACBE990, TYPE = E;
+GO
+

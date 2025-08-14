@@ -1,0 +1,4 @@
+CREATE USER [johanna.sanosa@lingarogroup.com]
+    WITH SID = 0xB555AFD1E28F0D4189A7AB6184E30A2B, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [kamil.gliwinski@lingarogroup.com]
+    WITH SID = 0x88E07682249CB54283E6EDA9456F536D, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [kamil.osrodka@lingarogroup.com]
+    WITH SID = 0x70DBA5C3067E2648AFAD506F18D6B702, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [izabela.brylska@lingarogroup.com]
+    WITH SID = 0x106192FAF5A21B408D0BFFC514E59259, TYPE = E;
+GO
+

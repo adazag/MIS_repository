@@ -1,0 +1,4 @@
+CREATE USER [iskander.ganeev@lingarogroup.com]
+    WITH SID = 0x744EE6A8F2B710489B03266BA837B865, TYPE = E;
+GO
+

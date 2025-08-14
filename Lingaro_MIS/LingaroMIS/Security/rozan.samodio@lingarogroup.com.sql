@@ -1,0 +1,4 @@
+CREATE USER [rozan.samodio@lingarogroup.com]
+    WITH SID = 0xE56C06FB34ED05448AE75300F8899DA7, TYPE = E;
+GO
+

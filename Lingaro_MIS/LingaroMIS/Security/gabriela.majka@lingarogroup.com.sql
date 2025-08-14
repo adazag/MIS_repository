@@ -1,0 +1,4 @@
+CREATE USER [gabriela.majka@lingarogroup.com]
+    WITH SID = 0x2C63FB68208E394FA0F07BDA5E8663A9, TYPE = E;
+GO
+

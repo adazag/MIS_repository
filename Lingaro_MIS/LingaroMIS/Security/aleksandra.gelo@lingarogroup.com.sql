@@ -1,0 +1,4 @@
+CREATE USER [aleksandra.gelo@lingarogroup.com]
+    WITH SID = 0xD340880D3EBD4349AF8872C7460272FD, TYPE = E;
+GO
+

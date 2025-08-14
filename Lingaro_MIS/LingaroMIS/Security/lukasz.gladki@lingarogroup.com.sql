@@ -1,0 +1,4 @@
+CREATE USER [lukasz.gladki@lingarogroup.com]
+    WITH SID = 0x6FBED25775BC4C41B27D09F2662CF9D6, TYPE = E;
+GO
+

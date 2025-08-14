@@ -1,0 +1,4 @@
+CREATE USER [dawid.parzyk@lingarogroup.com]
+    WITH SID = 0x331B645995EC0D49A47B2EBFD498C46B, TYPE = E;
+GO
+

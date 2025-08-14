@@ -1,0 +1,4 @@
+CREATE USER [ankita.nag@lingarogroup.com]
+    WITH SID = 0x86E41EF932492F4E82205BC52B3CCF16, TYPE = E;
+GO
+

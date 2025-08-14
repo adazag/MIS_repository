@@ -1,0 +1,4 @@
+CREATE USER [mary.madriaga@lingarogroup.com]
+    WITH SID = 0x4791C54DE268834BABF0E9AC06BBDF3E, TYPE = E;
+GO
+

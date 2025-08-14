@@ -1,0 +1,4 @@
+CREATE USER [aneta.koper@lingarogroup.com]
+    WITH SID = 0x49FF7759BCD8954DB172DC825E8F4A5F, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [jakub.swierczynski@Lingarogroup.com]
+    WITH SID = 0xB616CAF6F884444DB1031DD4E246AF49, TYPE = E;
+GO
+

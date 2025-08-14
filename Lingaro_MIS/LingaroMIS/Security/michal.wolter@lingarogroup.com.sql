@@ -1,0 +1,4 @@
+CREATE USER [michal.wolter@lingarogroup.com]
+    WITH SID = 0x5F8D6A01563F9846BFF38D9C3930BB38, TYPE = E;
+GO
+

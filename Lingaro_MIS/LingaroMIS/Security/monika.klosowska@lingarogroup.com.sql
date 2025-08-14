@@ -1,0 +1,4 @@
+CREATE USER [monika.klosowska@lingarogroup.com]
+    WITH SID = 0x383AC6E82F4D0E41BB40A82A7A582D4D, TYPE = E;
+GO
+

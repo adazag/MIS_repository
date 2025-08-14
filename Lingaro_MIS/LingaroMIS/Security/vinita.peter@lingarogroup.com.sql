@@ -1,0 +1,4 @@
+CREATE USER [vinita.peter@lingarogroup.com]
+    WITH SID = 0xE237F5FE17D9BA43979C59D40AB7D353, TYPE = E;
+GO
+

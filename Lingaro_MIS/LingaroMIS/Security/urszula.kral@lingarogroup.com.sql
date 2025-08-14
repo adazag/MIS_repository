@@ -1,0 +1,4 @@
+CREATE USER [urszula.kral@lingarogroup.com]
+    WITH SID = 0x7C9C4120984A1041B23786BA906219F6, TYPE = E;
+GO
+

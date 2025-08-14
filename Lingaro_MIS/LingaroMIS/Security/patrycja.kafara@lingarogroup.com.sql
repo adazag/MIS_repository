@@ -1,0 +1,4 @@
+CREATE USER [patrycja.kafara@lingarogroup.com]
+    WITH SID = 0x6868D7557E1EA44EB83B3FA2E7FE4710, TYPE = E;
+GO
+

@@ -1,0 +1,4 @@
+CREATE USER [paulina.wieleba@lingarogroup.com]
+    WITH SID = 0xD9F766216350F5468BA55F881B074065, TYPE = E;
+GO
+

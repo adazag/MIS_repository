@@ -1,0 +1,4 @@
+CREATE USER [natasa.boroch@lingarogroup.com]
+    WITH SID = 0x1770B27DB7AB5C44845F3F71AC38E91D, TYPE = E;
+GO
+

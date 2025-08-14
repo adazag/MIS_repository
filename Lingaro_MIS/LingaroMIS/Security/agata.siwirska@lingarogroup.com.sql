@@ -1,0 +1,4 @@
+CREATE USER [agata.siwirska@lingarogroup.com]
+    WITH SID = 0x78508B5A80748544B2C8C30A34F5B152, TYPE = E;
+GO
+

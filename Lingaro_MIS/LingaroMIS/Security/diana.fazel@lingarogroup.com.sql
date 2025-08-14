@@ -1,0 +1,4 @@
+CREATE USER [diana.fazel@lingarogroup.com]
+    WITH SID = 0x380BA9EB6C747547AF093D2557FB991B, TYPE = E;
+GO
+

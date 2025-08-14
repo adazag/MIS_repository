@@ -1,0 +1,4 @@
+CREATE USER [rocelle.reyes@lingarogroup.com]
+    WITH SID = 0xC4C981B33D316548ABA7DB5C34BA4694, TYPE = E;
+GO
+

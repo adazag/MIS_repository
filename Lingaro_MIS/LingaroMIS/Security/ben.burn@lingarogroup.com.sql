@@ -1,0 +1,4 @@
+CREATE USER [ben.burn@lingarogroup.com]
+    WITH SID = 0x9C0032F1F82DC24BA42F5191161CAE8F, TYPE = E;
+GO
+

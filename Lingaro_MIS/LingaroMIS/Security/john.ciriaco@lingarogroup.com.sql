@@ -1,0 +1,4 @@
+CREATE USER [john.ciriaco@lingarogroup.com]
+    WITH SID = 0x4ABBEF8EC01BFB4B9BC799A19B3A21E6, TYPE = E;
+GO
+

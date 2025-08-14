@@ -1,0 +1,4 @@
+CREATE USER [diana.rawinska@lingarogroup.com]
+    WITH SID = 0x45D81094666C4B4A9BE255D04A6BE321, TYPE = E;
+GO
+

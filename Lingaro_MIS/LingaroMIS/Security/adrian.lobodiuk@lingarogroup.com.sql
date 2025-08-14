@@ -1,0 +1,4 @@
+CREATE USER [adrian.lobodiuk@lingarogroup.com]
+    WITH SID = 0x16FEA841B3C61F408D6D0FDA6B1A0EDE, TYPE = E;
+GO
+

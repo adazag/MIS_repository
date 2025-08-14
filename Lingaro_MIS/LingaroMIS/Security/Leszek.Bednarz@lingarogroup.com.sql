@@ -1,0 +1,4 @@
+CREATE USER [Leszek.Bednarz@lingarogroup.com]
+    WITH SID = 0x5F4597F617E2B64D8333DC651C2015CA, TYPE = E;
+GO
+

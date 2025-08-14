@@ -1,0 +1,4 @@
+CREATE USER [anna.ptaszynska@lingarogroup.com]
+    WITH SID = 0x0BD2A9A930A46B47ACBE1A96EBB1504C, TYPE = E;
+GO
+

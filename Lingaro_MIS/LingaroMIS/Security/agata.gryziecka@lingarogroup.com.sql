@@ -1,0 +1,4 @@
+CREATE USER [agata.gryziecka@lingarogroup.com]
+    WITH SID = 0x8ACCB03F2298C64FBE1E14C3C08FAD58, TYPE = E;
+GO
+
