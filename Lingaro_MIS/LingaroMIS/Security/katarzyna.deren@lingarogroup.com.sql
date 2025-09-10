@@ -1,4 +1,0 @@
-CREATE USER [katarzyna.deren@lingarogroup.com]
-    WITH SID = 0x0A86ADFA7BED0B4F9CF1870DD80BBC9D, TYPE = E;
-GO
-

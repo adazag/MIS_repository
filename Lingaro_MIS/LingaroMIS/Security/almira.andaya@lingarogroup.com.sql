@@ -1,4 +1,0 @@
-CREATE USER [almira.andaya@lingarogroup.com]
-    WITH SID = 0x4A4DF8D0E14E314D8AE6CDFE0BFAFAB3, TYPE = E;
-GO
-

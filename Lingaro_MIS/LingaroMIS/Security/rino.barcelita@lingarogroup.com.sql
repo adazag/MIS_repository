@@ -1,4 +1,0 @@
-CREATE USER [rino.barcelita@lingarogroup.com]
-    WITH SID = 0x79BA678A80CF6B459630E1F95C525ACE, TYPE = E;
-GO
-

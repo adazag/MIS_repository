@@ -1,4 +1,0 @@
-CREATE USER [lukasz.wilenski@lingarogroup.com]
-    WITH SID = 0x2FE0309E6A1DC44192112679849C448E, TYPE = E;
-GO
-

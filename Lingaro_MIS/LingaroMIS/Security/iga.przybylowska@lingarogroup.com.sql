@@ -1,4 +1,0 @@
-CREATE USER [iga.przybylowska@lingarogroup.com]
-    WITH SID = 0xD415FB18D8A98B44A29C527745B8111D, TYPE = E;
-GO
-

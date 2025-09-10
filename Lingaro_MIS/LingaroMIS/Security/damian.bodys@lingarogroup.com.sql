@@ -1,4 +1,0 @@
-CREATE USER [damian.bodys@lingarogroup.com]
-    WITH SID = 0x39D723316A227545811062A6D724EA13, TYPE = E;
-GO
-

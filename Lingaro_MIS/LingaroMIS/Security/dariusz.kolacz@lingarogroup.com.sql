@@ -1,4 +1,0 @@
-CREATE USER [dariusz.kolacz@lingarogroup.com]
-    WITH SID = 0x5241139524256A44B13CF0FE7476533A, TYPE = E;
-GO
-

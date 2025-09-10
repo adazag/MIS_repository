@@ -1,4 +1,0 @@
-CREATE USER [manuel.bote@lingarogroup.com]
-    WITH SID = 0xE97C052D60D1A34CB88D0CDA3B2B871F, TYPE = E;
-GO
-

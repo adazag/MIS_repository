@@ -1,4 +1,0 @@
-CREATE USER [hanna.teszbir@lingarogroup.com]
-    WITH SID = 0x6D1535BFBAC7114BA6E60E11277B72D0, TYPE = E;
-GO
-

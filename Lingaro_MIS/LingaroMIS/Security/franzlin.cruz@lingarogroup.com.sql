@@ -1,4 +1,0 @@
-CREATE USER [franzlin.cruz@lingarogroup.com]
-    WITH SID = 0x023054AD3F026040BB62E7C6EEA21314, TYPE = E;
-GO
-

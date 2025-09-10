@@ -1,4 +1,0 @@
-CREATE USER [wojciech.pawlus@lingarogroup.com]
-    WITH SID = 0xF9075BC202639945A606D17CAEB78C18, TYPE = E;
-GO
-

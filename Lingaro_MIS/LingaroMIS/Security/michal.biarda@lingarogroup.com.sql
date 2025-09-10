@@ -1,4 +1,0 @@
-CREATE USER [michal.biarda@lingarogroup.com]
-    WITH SID = 0x7B1D76D0FA37E240AF9016238B77FD02, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [przemyslaw.kucia@lingarogroup.com]
-    WITH SID = 0x1BCBEEC41485624C8439A0003D820CDE, TYPE = E;
-GO
-

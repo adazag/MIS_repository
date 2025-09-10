@@ -1,4 +1,0 @@
-CREATE USER [anita.halicka@lingarogroup.com]
-    WITH SID = 0xB765794F37EDDA4A820F13FF05F5324D, TYPE = E;
-GO
-

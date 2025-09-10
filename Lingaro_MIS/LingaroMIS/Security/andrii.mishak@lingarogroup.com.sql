@@ -1,4 +1,0 @@
-CREATE USER [andrii.mishak@lingarogroup.com]
-    WITH SID = 0xA60B1382E59B3843BAB77D194D62EF2F, TYPE = E;
-GO
-

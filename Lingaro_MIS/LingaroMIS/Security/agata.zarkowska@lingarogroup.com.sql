@@ -1,4 +1,0 @@
-CREATE USER [agata.zarkowska@lingarogroup.com]
-    WITH SID = 0xCEE7CEB234C86148A611E9779F049B10, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [jakub.drozdziel@lingarogroup.com]
-    WITH SID = 0x8F9B20431448C2429E7B2B337886E719, TYPE = E;
-GO
-

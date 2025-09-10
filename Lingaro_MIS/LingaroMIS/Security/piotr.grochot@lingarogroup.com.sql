@@ -1,4 +1,0 @@
-CREATE USER [piotr.grochot@lingarogroup.com]
-    WITH SID = 0x411A0F0FDD72B145A805BDB572BE9202, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [mikolaj.sieczka@lingarogroup.com]
-    WITH SID = 0x1DC954CCF972E247AF423450720DCCBB, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [mariusz.makara@lingarogroup.com]
-    WITH SID = 0x6C092EB9DC926C4F98D748DAE022187B, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [adriana.brzoska@lingarogroup.com]
-    WITH SID = 0x3483794F5A5B334FB3AB65E1AFB0EA96, TYPE = E;
-GO
-

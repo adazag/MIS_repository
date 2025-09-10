@@ -1,4 +1,0 @@
-CREATE USER [dominic.almeda@lingarogroup.com]
-    WITH SID = 0x713CCA71B4BD9E498FBA01C9488A8595, TYPE = E;
-GO
-

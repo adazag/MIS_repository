@@ -1,4 +1,0 @@
-CREATE USER [joanna.wozniak@lingarogroup.com]
-    WITH SID = 0xB64EC7D974FE044BB8BE297B44C78A04, TYPE = E;
-GO
-

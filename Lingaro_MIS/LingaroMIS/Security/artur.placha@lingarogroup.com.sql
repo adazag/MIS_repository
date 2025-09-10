@@ -1,4 +1,0 @@
-CREATE USER [artur.placha@lingarogroup.com]
-    WITH SID = 0xEF0869CCB0FC0D4F926551D019A42E9D, TYPE = E;
-GO
-

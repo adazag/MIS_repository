@@ -1,4 +1,0 @@
-CREATE USER [kamila.jaczewska@lingarogroup.com]
-    WITH SID = 0xDF1DF3A28AF52249BD283AB18BE0AAF8, TYPE = E;
-GO
-

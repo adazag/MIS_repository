@@ -1,4 +1,0 @@
-CREATE USER [radoslaw.kedzior@lingarogroup.com]
-    WITH SID = 0xCF78939C181EBC4EB69EE1A8D966C72B, TYPE = E;
-GO
-

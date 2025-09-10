@@ -1,4 +1,0 @@
-CREATE USER [org-Technology_Architecture]
-    WITH SID = 0x8353B83225D69F44AE4B79C1D04C46F3, TYPE = X;
-GO
-

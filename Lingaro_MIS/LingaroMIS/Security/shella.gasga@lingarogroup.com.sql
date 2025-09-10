@@ -1,4 +1,0 @@
-CREATE USER [shella.gasga@lingarogroup.com]
-    WITH SID = 0x555CE13495DF26469563713EAAC7AA76, TYPE = E;
-GO
-

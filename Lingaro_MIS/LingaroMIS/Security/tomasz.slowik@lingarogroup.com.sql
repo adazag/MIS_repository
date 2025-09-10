@@ -1,4 +1,0 @@
-CREATE USER [tomasz.slowik@lingarogroup.com]
-    WITH SID = 0xE3357CAF0DF1DE469D18F011E587EAB8, TYPE = E;
-GO
-

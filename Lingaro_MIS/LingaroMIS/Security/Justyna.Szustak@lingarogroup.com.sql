@@ -1,4 +1,0 @@
-CREATE USER [Justyna.Szustak@lingarogroup.com]
-    WITH SID = 0xDBAE1E6CB9B1474EBB8DAD860BEEA71F, TYPE = E;
-GO
-

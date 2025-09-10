@@ -1,4 +1,0 @@
-CREATE USER [pooja.yadav@lingarogroup.com]
-    WITH SID = 0xB263EB50749DF644B2D38AA101743223, TYPE = E;
-GO
-

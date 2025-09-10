@@ -1,4 +1,0 @@
-CREATE USER [lorlanie.deleon@lingarogroup.com]
-    WITH SID = 0x9AE1881776CE5043A95FC1390F344178, TYPE = E;
-GO
-

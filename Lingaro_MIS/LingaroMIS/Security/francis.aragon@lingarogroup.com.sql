@@ -1,4 +1,0 @@
-CREATE USER [francis.aragon@lingarogroup.com]
-    WITH SID = 0x877E1D16EFD80A42A47A730688626637, TYPE = E;
-GO
-

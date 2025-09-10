@@ -1,4 +1,0 @@
-CREATE USER [norbert.fijalek@lingarogroup.com]
-    WITH SID = 0xD62DC16E28EDCB488A855FC9912173BC, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [alex.drozdz@lingarogroup.com]
-    WITH SID = 0xD4F9472D2DEB604C9CCD0719A19BC098, TYPE = E;
-GO
-

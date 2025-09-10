@@ -1,4 +1,0 @@
-CREATE USER [kini.keller@lingarogroup.com]
-    WITH SID = 0xF3AA1CF6C986D3408148478F360140CA, TYPE = E;
-GO
-

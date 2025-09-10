@@ -1,4 +1,0 @@
-CREATE USER [marek.hyb@lingarogroup.com]
-    WITH SID = 0x6E68276E5FCAB944AF27D7E7DD558B0E, TYPE = E;
-GO
-

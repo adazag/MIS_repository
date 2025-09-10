@@ -1,4 +1,0 @@
-CREATE USER [karol.raczynski@lingarogroup.com]
-    WITH SID = 0xAD7D453DD90D8740992E4C5430DE04B2, TYPE = E;
-GO
-

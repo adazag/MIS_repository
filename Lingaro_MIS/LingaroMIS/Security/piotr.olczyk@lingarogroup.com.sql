@@ -1,4 +1,0 @@
-CREATE USER [piotr.olczyk@lingarogroup.com]
-    WITH SID = 0xF9D65A6F010C5140891CACA96AB17146, TYPE = E;
-GO
-

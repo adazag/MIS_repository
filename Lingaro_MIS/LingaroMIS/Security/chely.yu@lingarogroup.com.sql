@@ -1,4 +1,0 @@
-CREATE USER [chely.yu@lingarogroup.com]
-    WITH SID = 0xCF2D6E9A8DE75A4ABE77D915B19EB349, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [jacer.aguilar@lingarogroup.com]
-    WITH SID = 0x7DE1D1086B993C4882A85ECAC1D39EC5, TYPE = E;
-GO
-

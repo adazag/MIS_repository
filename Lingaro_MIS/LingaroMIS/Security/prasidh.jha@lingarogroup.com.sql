@@ -1,4 +1,0 @@
-CREATE USER [prasidh.jha@lingarogroup.com]
-    WITH SID = 0x33DC9CC9D0DD7445A60FEDC3164AE75B, TYPE = E;
-GO
-

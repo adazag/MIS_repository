@@ -1,4 +1,0 @@
-CREATE USER [lukasz.szetela@lingarogroup.com]
-    WITH SID = 0x8ED8CE11C784F0408085910CB33FC2F7, TYPE = E;
-GO
-

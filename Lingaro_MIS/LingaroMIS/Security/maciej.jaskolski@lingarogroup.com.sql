@@ -1,4 +1,0 @@
-CREATE USER [maciej.jaskolski@lingarogroup.com]
-    WITH SID = 0xF377A5BE20FDE944AE2EF1F9F718A06D, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [anna.strawa@lingarogroup.com]
-    WITH SID = 0xACFDD76AF2694944B23CBD8DB1179061, TYPE = E;
-GO
-

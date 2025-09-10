@@ -1,4 +1,0 @@
-CREATE USER [grzegorz.pawelec@lingarogroup.com]
-    WITH SID = 0x355A61BA0B5A7E43B3D38A111B248D4A, TYPE = E;
-GO
-

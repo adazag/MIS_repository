@@ -1,4 +1,0 @@
-CREATE USER [anna.kruczek@lingarogroup.com]
-    WITH SID = 0x9C6CCF148FE2854F94FBE497FE24A9D3, TYPE = E;
-GO
-

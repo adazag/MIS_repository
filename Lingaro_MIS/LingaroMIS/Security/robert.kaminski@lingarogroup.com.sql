@@ -1,4 +1,0 @@
-CREATE USER [robert.kaminski@lingarogroup.com]
-    WITH SID = 0x9FAD22D05573F54799B7FFF457206615, TYPE = E;
-GO
-

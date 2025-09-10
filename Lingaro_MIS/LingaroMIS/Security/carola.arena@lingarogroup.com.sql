@@ -1,4 +1,0 @@
-CREATE USER [carola.arena@lingarogroup.com]
-    WITH SID = 0xBC565CA13B47284CB086E0F6589E9B7A, TYPE = E;
-GO
-

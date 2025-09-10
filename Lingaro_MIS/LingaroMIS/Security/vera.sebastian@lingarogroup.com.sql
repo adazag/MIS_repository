@@ -1,4 +1,0 @@
-CREATE USER [vera.sebastian@lingarogroup.com]
-    WITH SID = 0x795D2A1905527D47883842AB465A1287, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [samuel.mantle@lingarogroup.com]
-    WITH SID = 0x7FA32A420FAF1D4581FCA68383B1622E, TYPE = E;
-GO
-

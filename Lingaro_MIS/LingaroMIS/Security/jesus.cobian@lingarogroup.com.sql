@@ -1,4 +1,0 @@
-CREATE USER [jesus.cobian@lingarogroup.com]
-    WITH SID = 0x3E5767518FBA514E8B693E7140FA975D, TYPE = E;
-GO
-

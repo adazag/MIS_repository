@@ -1,4 +1,0 @@
-CREATE USER [wojciech.krygier@lingarogroup.com]
-    WITH SID = 0x529D96EC94951747B1F7849CA8D33639, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [magda.wypych@lingarogroup.com]
-    WITH SID = 0xE4B50B3EB40415489F246D948E555BE8, TYPE = E;
-GO
-

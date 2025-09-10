@@ -1,4 +1,0 @@
-CREATE USER [agnieszka.mitrus@lingarogroup.com]
-    WITH SID = 0x0BBFD8FCBD710645A91D16395FCEA2F4, TYPE = E;
-GO
-

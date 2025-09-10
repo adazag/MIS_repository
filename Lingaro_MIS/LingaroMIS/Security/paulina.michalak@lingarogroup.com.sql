@@ -1,4 +1,0 @@
-CREATE USER [paulina.michalak@lingarogroup.com]
-    WITH SID = 0x402FE9BF1D285849A0E579A98644A6C5, TYPE = E;
-GO
-

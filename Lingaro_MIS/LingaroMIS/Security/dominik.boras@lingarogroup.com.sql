@@ -1,4 +1,0 @@
-CREATE USER [dominik.boras@lingarogroup.com]
-    WITH SID = 0x9F7E2E799C5C4E47BAE93A53CA36202D, TYPE = E;
-GO
-

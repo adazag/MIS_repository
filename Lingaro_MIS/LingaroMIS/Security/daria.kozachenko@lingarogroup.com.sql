@@ -1,4 +1,0 @@
-CREATE USER [daria.kozachenko@lingarogroup.com]
-    WITH SID = 0x8D5CE4080E98B04CAD0AFB55CEFB50B4, TYPE = E;
-GO
-

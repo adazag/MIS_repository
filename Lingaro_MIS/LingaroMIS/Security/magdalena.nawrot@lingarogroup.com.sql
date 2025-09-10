@@ -1,4 +1,0 @@
-CREATE USER [magdalena.nawrot@lingarogroup.com]
-    WITH SID = 0x0C84AB404436B444963D3697DED142F0, TYPE = E;
-GO
-

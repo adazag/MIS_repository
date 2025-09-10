@@ -1,4 +1,0 @@
-CREATE USER [wiktor.fido@lingarogroup.com]
-    WITH SID = 0x03F68F0D3202CE489D74BC87C0A1596F, TYPE = E;
-GO
-

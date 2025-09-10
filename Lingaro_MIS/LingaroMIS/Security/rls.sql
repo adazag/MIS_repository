@@ -1,4 +1,0 @@
-CREATE SCHEMA [rls]
-    AUTHORIZATION [dbo];
-GO
-

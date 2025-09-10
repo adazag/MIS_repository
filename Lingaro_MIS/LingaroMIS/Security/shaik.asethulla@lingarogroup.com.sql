@@ -1,4 +1,0 @@
-CREATE USER [shaik.asethulla@lingarogroup.com]
-    WITH SID = 0x3C81AF184C4DDE46A5896B52768A93AB, TYPE = E;
-GO
-

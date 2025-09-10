@@ -1,4 +1,0 @@
-CREATE USER [jonriz.parrilla@lingarogroup.com]
-    WITH SID = 0x4C5A3249F6457B4B89470FA480014D1B, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [rafal.jarosz1@lingarogroup.com]
-    WITH SID = 0x62367409F87CD34B9BF205A8EA71B092, TYPE = E;
-GO
-

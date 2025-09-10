@@ -1,4 +1,0 @@
-CREATE USER [michael.alvarado@lingarogroup.com]
-    WITH SID = 0xD5E74092A2E421499835666351746F4E, TYPE = E;
-GO
-

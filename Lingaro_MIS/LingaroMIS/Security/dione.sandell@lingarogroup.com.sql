@@ -1,4 +1,0 @@
-CREATE USER [dione.sandell@lingarogroup.com]
-    WITH SID = 0x7BA531EE8EFE5B4D9243CD0DA1729E91, TYPE = E;
-GO
-

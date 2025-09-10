@@ -1,4 +1,0 @@
-CREATE USER [roman.baluta@lingarogroup.com]
-    WITH SID = 0xF4D6F793BCC3DB4A8F5625FDBAD9825B, TYPE = E;
-GO
-

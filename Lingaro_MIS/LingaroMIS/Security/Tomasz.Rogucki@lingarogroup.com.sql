@@ -1,4 +1,0 @@
-CREATE USER [Tomasz.Rogucki@lingarogroup.com]
-    WITH SID = 0xE5E36395B3531347A6EAB2AD4792E435, TYPE = E;
-GO
-

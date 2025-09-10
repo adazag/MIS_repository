@@ -1,4 +1,0 @@
-CREATE USER [pawel.baginski@lingarogroup.com]
-    WITH SID = 0xEE63C426A593CD4AA05BBA50CE953F16, TYPE = E;
-GO
-

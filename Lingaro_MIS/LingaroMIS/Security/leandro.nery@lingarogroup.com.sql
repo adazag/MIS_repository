@@ -1,4 +1,0 @@
-CREATE USER [leandro.nery@lingarogroup.com]
-    WITH SID = 0x18CEF49D47A9CF4E833F55C587CCBFAE, TYPE = E;
-GO
-

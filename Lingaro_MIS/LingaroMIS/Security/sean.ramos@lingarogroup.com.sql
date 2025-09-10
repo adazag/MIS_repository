@@ -1,4 +1,0 @@
-CREATE USER [sean.ramos@lingarogroup.com]
-    WITH SID = 0x75CEB377C60ED44B9602E284E9773BB5, TYPE = E;
-GO
-

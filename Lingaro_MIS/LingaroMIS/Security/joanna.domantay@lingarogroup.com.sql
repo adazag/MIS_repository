@@ -1,4 +1,0 @@
-CREATE USER [joanna.domantay@lingarogroup.com]
-    WITH SID = 0x1057409F688F08469C033F08B4EB1F5D, TYPE = E;
-GO
-

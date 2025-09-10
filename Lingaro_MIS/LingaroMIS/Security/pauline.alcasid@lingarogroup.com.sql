@@ -1,4 +1,0 @@
-CREATE USER [pauline.alcasid@lingarogroup.com]
-    WITH SID = 0x0F63BD7335AA5E40BA4E95D15FAF6C8E, TYPE = E;
-GO
-

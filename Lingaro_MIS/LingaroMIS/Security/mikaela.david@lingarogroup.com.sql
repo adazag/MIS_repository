@@ -1,4 +1,0 @@
-CREATE USER [mikaela.david@lingarogroup.com]
-    WITH SID = 0xB1D38F47B266104286D429A1A9D9A0DB, TYPE = E;
-GO
-

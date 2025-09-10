@@ -1,4 +1,0 @@
-CREATE USER [marcin.wloch@lingarogroup.com]
-    WITH SID = 0x83A48767B14E7E4AAFEBDFE14E6BE407, TYPE = E;
-GO
-

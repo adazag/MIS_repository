@@ -1,4 +1,0 @@
-CREATE SCHEMA [data_in]
-    AUTHORIZATION [dbo];
-GO
-

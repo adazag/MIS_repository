@@ -1,4 +1,0 @@
-CREATE USER [anna.hoffmann@lingarogroup.com]
-    WITH SID = 0x96EC2B566A9E3E47BFA894A317DA6382, TYPE = E;
-GO
-

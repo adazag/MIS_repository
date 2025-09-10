@@ -1,4 +1,0 @@
-CREATE USER [malgorzata.lucka@lingarogroup.com]
-    WITH SID = 0xB71957652FC4454D98C9EBB3119C9BA3, TYPE = E;
-GO
-

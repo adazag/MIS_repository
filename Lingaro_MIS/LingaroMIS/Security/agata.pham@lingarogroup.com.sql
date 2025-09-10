@@ -1,4 +1,0 @@
-CREATE USER [agata.pham@lingarogroup.com]
-    WITH SID = 0xBA2C618AA332234D96415E6C66CD661B, TYPE = E;
-GO
-

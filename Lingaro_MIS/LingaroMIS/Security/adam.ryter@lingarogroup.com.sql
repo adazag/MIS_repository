@@ -1,4 +1,0 @@
-CREATE USER [adam.ryter@lingarogroup.com]
-    WITH SID = 0xDB1D6E00D5CF3546808C6CED1DE52F14, TYPE = E;
-GO
-

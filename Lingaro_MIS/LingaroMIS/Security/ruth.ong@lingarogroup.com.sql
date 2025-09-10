@@ -1,4 +1,0 @@
-CREATE USER [ruth.ong@lingarogroup.com]
-    WITH SID = 0xD2BD83D8E6808C45A649F20F3BEB596D, TYPE = E;
-GO
-

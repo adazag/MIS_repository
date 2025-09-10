@@ -1,4 +1,0 @@
-CREATE USER [maciej.jachimek@lingarogroup.com]
-    WITH SID = 0xBBAED6475841594A90323D6B20356A2D, TYPE = E;
-GO
-

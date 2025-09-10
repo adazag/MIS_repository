@@ -1,4 +1,0 @@
-CREATE USER [nishant.chawla@lingarogroup.com]
-    WITH SID = 0x580C367C57A9AD4ABB2DD3DA951B8C0B, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [Aleksandra.Latoszek@lingarogroup.com]
-    WITH SID = 0x60BD0443B08BFB43879BCF56D3ED35FA, TYPE = E;
-GO
-

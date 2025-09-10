@@ -1,4 +1,0 @@
-CREATE USER [margie.alfonso@lingarogroup.com]
-    WITH SID = 0x29E7AF28302D4E4C882C52B6AC7DE24E, TYPE = E;
-GO
-

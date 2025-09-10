@@ -1,4 +1,0 @@
-CREATE USER [jarvin.marcelo@lingarogroup.com]
-    WITH SID = 0x06A9F8312662D647BE1669899F7A89FD, TYPE = E;
-GO
-

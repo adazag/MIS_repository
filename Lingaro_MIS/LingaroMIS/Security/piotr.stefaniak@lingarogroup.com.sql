@@ -1,4 +1,0 @@
-CREATE USER [piotr.stefaniak@lingarogroup.com]
-    WITH SID = 0xDD9A235E52F9134B91987E1A5D44153B, TYPE = E;
-GO
-

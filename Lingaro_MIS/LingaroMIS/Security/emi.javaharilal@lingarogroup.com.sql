@@ -1,4 +1,0 @@
-CREATE USER [emi.javaharilal@lingarogroup.com]
-    WITH SID = 0x447AA5731969274CB4D6D51A1870BBD7, TYPE = E;
-GO
-

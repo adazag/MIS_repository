@@ -1,4 +1,0 @@
-CREATE USER [magda.baranowska@lingarogroup.com]
-    WITH SID = 0x9F934C218B8A234B8E27583104CD7045, TYPE = E;
-GO
-

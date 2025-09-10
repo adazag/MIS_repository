@@ -1,4 +1,0 @@
-CREATE USER [marzena.klus@lingarogroup.com]
-    WITH SID = 0xB4564BF99563024DB53338DA251F3F2F, TYPE = E;
-GO
-

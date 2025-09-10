@@ -1,4 +1,0 @@
-CREATE USER [maciej.mroz@lingarogroup.com]
-    WITH SID = 0xDDFF3A0AAD16744DBFBA3758049CE0CA, TYPE = E;
-GO
-

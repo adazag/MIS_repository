@@ -1,4 +1,0 @@
-CREATE USER [mayank.gupta@lingarogroup.com]
-    WITH SID = 0x7E2FDB239D2A7C43B278B364937A4608, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [damian.zajkowski@lingarogroup.com]
-    WITH SID = 0x629CF501225C634CB3C8FE0078048D19, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [Tomasz.Rebis@lingarogroup.com]
-    WITH SID = 0x6FEAC5F72BD9174FB831BAB7ABC48E71, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [anna.horyza@lingarogroup.com]
-    WITH SID = 0xD87E74960F3E9F4ABF041ACD5386E31D, TYPE = E;
-GO
-

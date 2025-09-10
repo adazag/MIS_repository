@@ -1,4 +1,0 @@
-CREATE USER [pawel.cygulski@lingarogroup.com]
-    WITH SID = 0x877B23FCB50ABD4FBF669D53EAF0D8DC, TYPE = E;
-GO
-

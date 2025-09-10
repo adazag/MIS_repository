@@ -1,4 +1,0 @@
-CREATE USER [adrian.cypcar@lingarogroup.com]
-    WITH SID = 0xB5742D57596A7A46BA8BFC7096C80B68, TYPE = E;
-GO
-

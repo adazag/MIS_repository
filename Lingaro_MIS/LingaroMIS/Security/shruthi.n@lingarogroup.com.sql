@@ -1,4 +1,0 @@
-CREATE USER [shruthi.n@lingarogroup.com]
-    WITH SID = 0x6D7B9837156DCC4681D3F9D9DA6B0624, TYPE = E;
-GO
-

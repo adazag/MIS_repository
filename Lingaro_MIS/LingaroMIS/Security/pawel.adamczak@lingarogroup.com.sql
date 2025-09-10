@@ -1,4 +1,0 @@
-CREATE USER [pawel.adamczak@lingarogroup.com]
-    WITH SID = 0xC4B27791A2A51A47975335175604C670, TYPE = E;
-GO
-

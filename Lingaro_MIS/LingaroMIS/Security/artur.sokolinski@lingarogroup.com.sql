@@ -1,4 +1,0 @@
-CREATE USER [artur.sokolinski@lingarogroup.com]
-    WITH SID = 0x22579CA7EC6DFE4A9909BE69C1462554, TYPE = E;
-GO
-

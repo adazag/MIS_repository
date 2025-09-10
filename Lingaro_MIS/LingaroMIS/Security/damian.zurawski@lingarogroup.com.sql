@@ -1,4 +1,0 @@
-CREATE USER [damian.zurawski@lingarogroup.com]
-    WITH SID = 0xD562ECA86A95DC4E9D66619785179607, TYPE = E;
-GO
-

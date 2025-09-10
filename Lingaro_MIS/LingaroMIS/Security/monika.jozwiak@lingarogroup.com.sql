@@ -1,4 +1,0 @@
-CREATE USER [monika.jozwiak@lingarogroup.com]
-    WITH SID = 0x429AFFB2BF45FF4B87A2E0128F2CB40A, TYPE = E;
-GO
-

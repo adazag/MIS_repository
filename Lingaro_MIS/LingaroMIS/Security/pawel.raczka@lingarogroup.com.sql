@@ -1,4 +1,0 @@
-CREATE USER [pawel.raczka@lingarogroup.com]
-    WITH SID = 0x89860A6878CD3941A005CBFF1007C89E, TYPE = E;
-GO
-

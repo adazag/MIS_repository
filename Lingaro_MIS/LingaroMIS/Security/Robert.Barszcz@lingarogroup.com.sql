@@ -1,4 +1,0 @@
-CREATE USER [Robert.Barszcz@lingarogroup.com]
-    WITH SID = 0xEB33722A97C8B34B9974C4DD88495B3B, TYPE = E;
-GO
-

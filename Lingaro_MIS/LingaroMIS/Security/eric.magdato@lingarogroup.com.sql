@@ -1,4 +1,0 @@
-CREATE USER [eric.magdato@lingarogroup.com]
-    WITH SID = 0x5F17EFC91CE577488CEC2E19BF65D8B5, TYPE = E;
-GO
-

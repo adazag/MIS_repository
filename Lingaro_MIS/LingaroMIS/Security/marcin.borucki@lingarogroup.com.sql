@@ -1,4 +1,0 @@
-CREATE USER [marcin.borucki@lingarogroup.com]
-    WITH SID = 0x55B9EAB1BB998347930BD5E6DA020A0C, TYPE = E;
-GO
-

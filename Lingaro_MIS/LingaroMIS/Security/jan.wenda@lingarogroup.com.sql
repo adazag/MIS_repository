@@ -1,4 +1,0 @@
-CREATE USER [jan.wenda@lingarogroup.com]
-    WITH SID = 0x0DE730EA366FC14DB1F073E7A0F27FDD, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [ewelina.margos@lingarogroup.com]
-    WITH SID = 0xBBEBCB4163FA0C43AD95131AEE346947, TYPE = E;
-GO
-

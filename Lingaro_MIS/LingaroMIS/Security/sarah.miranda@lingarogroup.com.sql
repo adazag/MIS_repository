@@ -1,4 +1,0 @@
-CREATE USER [sarah.miranda@lingarogroup.com]
-    WITH SID = 0x693416599400814EAA8B8ACDDDB87CE3, TYPE = E;
-GO
-

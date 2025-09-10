@@ -1,4 +1,0 @@
-CREATE USER [jacek.jarosz@lingarogroup.com]
-    WITH SID = 0x5ADF8912C4050A428671C84CC4E7ABC3, TYPE = E;
-GO
-

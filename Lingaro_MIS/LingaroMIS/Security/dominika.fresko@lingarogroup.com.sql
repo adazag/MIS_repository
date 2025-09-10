@@ -1,4 +1,0 @@
-CREATE USER [dominika.fresko@lingarogroup.com]
-    WITH SID = 0x11DE99D5321848439CF2443FF0718E62, TYPE = E;
-GO
-

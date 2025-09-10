@@ -1,4 +1,0 @@
-CREATE USER [nathanael.chu@lingarogroup.com]
-    WITH SID = 0xAE9611F2B2C1BD48AE2A66D8A70655A4, TYPE = E;
-GO
-

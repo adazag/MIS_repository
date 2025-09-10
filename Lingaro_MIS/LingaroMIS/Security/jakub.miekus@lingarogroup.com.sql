@@ -1,4 +1,0 @@
-CREATE USER [jakub.miekus@lingarogroup.com]
-    WITH SID = 0xA0E65B95B7D1AB4B9D7096B5374A6119, TYPE = E;
-GO
-

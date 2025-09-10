@@ -1,4 +1,0 @@
-CREATE USER [hanna.wolter@lingarogroup.com]
-    WITH SID = 0xF13E22FEF1532D4585FAAD3F7D07E36E, TYPE = E;
-GO
-

@@ -1,4 +1,0 @@
-CREATE USER [avi.boliya@lingarogroup.com]
-    WITH SID = 0x4E729787EC87E842A61B30764C9E5EAE, TYPE = E;
-GO
-
